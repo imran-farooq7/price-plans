@@ -1,0 +1,48 @@
+.price__title {
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+.price__subtitle {
+	font-size: 0.7rem;
+	color: #514a74;
+}
+.price__dollar {
+	font-size: 3rem;
+	color: #808080;
+}
+.price__price {
+	font-size: 3rem;
+}
+.price__plan {
+	color: #808080;
+}
+.card__annual,
+.price__white {
+	background: #03115e;
+	color: #ffffff;
+}
+.price__list {
+	list-style-type: none;
+	font-size: 0.7rem;
+	color: #808080;
+}
+.card-footer {
+	text-align: center;
+}
+.card__footer--annual {
+	background: #222d6a;
+}
+.card {
+	border-radius: 1rem;
+	max-width: 100%;
+	width: 20rem;
+	height: 100%;
+}
+.price__list--white {
+	color: #fff;
+}
+@media (max-width: 768px) {
+	.card {
+		width: 100%;
+	}
+}

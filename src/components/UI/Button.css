@@ -1,0 +1,13 @@
+.btn__month {
+	background: #15afef;
+	width: 100%;
+	border: none;
+	color: white;
+	padding: 0.4rem 0;
+	border-radius: 4px;
+	margin-bottom: 1rem;
+}
+.btn__annual {
+	background: #03c0b6;
+	color: #fff;
+}

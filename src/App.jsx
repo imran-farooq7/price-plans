@@ -6,7 +6,7 @@ const App = () => {
 	const [showAnnual, setShowAnnual] = useState(false);
 	return (
 		<div id="app">
-			<h1 className="app__header">Ready to get started?</h1>
+			<h1 className="mt-3 mt-md-0 text-center">Ready to get started?</h1>
 			<p className="app__subtitle">Choose a plan tailored to your need</p>
 			<div className="app__switchcontainer">
 				<span>Monthly</span>
